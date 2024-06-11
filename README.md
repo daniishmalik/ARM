@@ -1,3 +1,4 @@
+I hope you are well.
 
 Please find the Solution to both SQL and Python problems here in this directory.
 
